@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">hi , i'm andrea ! ✿ </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=EDAFB8&center=true&vCenter=true&random=false&width=700&lines=just+a+tired+computer+science+student;who+loves+coding+%2B+research+%2B+design+%D9%A9(%CB%8A%E1%97%9C%CB%8B*)%D9%88;(+real+)">
+</p>
+
 
 <!--
 **qndreali/qndreali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
