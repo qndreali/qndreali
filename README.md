@@ -1,6 +1,6 @@
 <h1 align="center">hi , i'm andrea ! ✿ </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EDAFB8&center=true&vCenter=true&random=false&width=550&lines=just+a+tired+computer+science+student;who+loves+coding%2C+design%2C+%26+research+%D9%A9(%CB%8A%E1%B5%95%CB%8B*)%D9%88;(+for+real+)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EDAFB8&center=true&vCenter=true&random=false&width=550&lines=just+a+tired+computer+science+student;who+loves+coding%2C+design%2C+%26+research+%D9%A9(%CB%8A%E1%B5%95%CB%8B*)%D9%88">
 </p>
 
 
